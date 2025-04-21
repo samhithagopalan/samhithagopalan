@@ -1,4 +1,4 @@
-T# 👋 Hello, I'm SAMHITHA GOPALAN
+👋 Hello, I'm SAMHITHA GOPALAN
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
@@ -6,7 +6,7 @@ T# 👋 Hello, I'm SAMHITHA GOPALAN
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=9D84B7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Ethics+Researcher;Academic+Excellence+Awardee;Full+Stack+Developer;Open+Source+Contributor;Data+Analyst;Mentor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=9D84B7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Ethics+Researcher;Academic+Excellence+Awardee;Full+Stack+Developer;Open+Source+Contributor;Data+Analyst;Student+Mentor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@ I've worked as a research assistant in AI ethics, contributed to open source pro
 
 <div align="center">
   <img src="https://img.shields.io/badge/Responsible%20AI-28A745?style=for-the-badge&logo=ai&logoColor=white" alt="Responsible AI" />
-  <img src="https://img.shields.io/badge/AI%20Ethics-FF9800?style=for-the-badge&logo=openai&logoColor=white" alt="AI Ethics" />
+  <img src="https://img.shields.io/badge/AI%20Ethics-FF9800?style=for-the-badge&logo=ai&logoColor=white" alt="AI Ethics" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
