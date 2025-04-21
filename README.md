@@ -1,4 +1,4 @@
-# 👋 Hello, I'm SAMHITHA GOPALAN
+T# 👋 Hello, I'm SAMHITHA GOPALAN
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Ethics%20%26%20Development-9D84B7?style=for-the-badge" alt="Focus" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation">
-</div>
 
 ## 🧠 About Me
 
